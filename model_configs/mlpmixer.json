@@ -1,0 +1,9 @@
+{
+    "num_classes": 10,
+    "img_size": 32,
+    "patch_size": 16,
+    "embed_dim": 256,
+    "num_blocks": 4,
+    "drop_rate": 0.0,
+    "activation": "gelu"
+}
