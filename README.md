@@ -30,7 +30,7 @@ Comparison of the best results for the three models:
 <img src="./figures/train_losses.png" alt="image name" width=50% height=50%><img src="./figures/valid_losses.png" alt="image name" width=50% height=50%>
 
 Hyperparameters used by the above models:
-|Hyperparameters|Value|
+|Models|Hyperparameters|
 |---|---|
 |MLP|default|
 |ResNet18|batch size=64, weight decay=1e-3, number of epochs=100|
